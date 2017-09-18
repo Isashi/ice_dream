@@ -14,5 +14,12 @@
 //= require bootstrap-sprockets
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
-
+//= require_tree
+//= require jquery-2.1.1.min.js
+//= require bootstrap.min.js
+//= require parallax.min.js
+//= require wow.min.js
+//= require jquery.easing.min.js
+//= require fliplightbox.min.js
+//= require functions.js
+//= require cable.js
